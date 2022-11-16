@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Brandon Mansfield.
-- 👀 I’m interested in learning the Web fullstack development.
-- 🌱 I’m currently learning Web development and Automation for websites
+- 👋 Hi, I’m Brandon Mansfield. Here you will find some of my projects ordered by technology...
+- 👀 I’m interested in learning the Web fullstack development, mostly oriented to automation.
+- 🌱 I’m currently learning Web development and Automation with Javascript.
 - 💞️ I’m looking to collaborate on projects where I can contribute my knowledge and grow alongside professionals in the area.
 - 📫 How to reach me Brandon_mansfield@hotmail.es / https://www.linkedin.com/in/brandon-mansfield98/
-
-
